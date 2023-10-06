@@ -59,61 +59,7 @@ Si deseas inscribirte en el curso, puedes hacerlo en [Udemy - Python 3: Desde Ce
 ### Sección 1: Introducción
 - [Código de la Sección 1](seccion1/)
 
-### Sección 2: Instalación y Configuración
-- [Código de la Sección 2](seccion2/)
 
-### Sección 3: Fundamentos de Python
-- [Código de la Sección 3](seccion3/)
-
-### Sección 4: Variables y Tipos de Datos
-- [Código de la Sección 4](seccion4/)
-
-### Sección 5: Estructuras de Control
-- [Código de la Sección 5](seccion5/)
-
-### Sección 6: Funciones y Módulos
-- [Código de la Sección 6](seccion6/)
-
-### Sección 7: Listas
-- [Código de la Sección 7](seccion7/)
-
-### Sección 8: Tuplas
-- [Código de la Sección 8](seccion8/)
-
-### Sección 9: Diccionarios
-- [Código de la Sección 9](seccion9/)
-
-### Sección 10: Documentación en Python
-- [Código de la Sección 10](seccion10/)
-
-### Sección 11: Ciclos en Python
-- [Código de la Sección 11](seccion11/)
-
-### Sección 12: Funciones en Python
-- [Código de la Sección 12](seccion12/)
-
-### Sección 13: Recursión en Python
-- [Código de la Sección 13](seccion13/)
-
-### Sección 14: Trabajo con Archivos
-- [Código de la Sección 14](seccion14/)
-
-### Sección 15: Módulos en Python
-- [Código de la Sección 15](seccion15/)
-
-### Sección 16: Manejo de Excepciones
-- [Código de la Sección 16](seccion16/)
-
-### Sección 17: Programación Orientada a Objetos
-- [Código de la Sección 17](seccion17/)
-
-### Sección 18: Ejemplo Práctico
-- [Código de la Sección 18](seccion18/)
-
-### Sección 19: Conclusiones
-- [Código de la Sección 19](seccion19/)
-
-### Clase Extra: [Título de la Clase Extra](clase-extra/)
 
 
 ## Cómo Utilizar este Repositorio

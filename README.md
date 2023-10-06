@@ -56,12 +56,8 @@ Al completar este curso, se espera que los estudiantes:
 Si deseas inscribirte en el curso, puedes hacerlo en [Udemy - Python 3: Desde Cero para Principiantes](https://www.udemy.com/course/python-3-desde-cero-para-principiantes-y-no-programadores/).
 
 ## Secciones del Curso
-### Sección 1: Introducción
-- [Código de la Sección 1](seccion1/)
-
-
-
-
+### Secciones
+----
 ## Cómo Utilizar este Repositorio
 
 1. Clona este repositorio a tu máquina local para acceder a los códigos:

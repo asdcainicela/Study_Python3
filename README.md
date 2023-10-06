@@ -2,7 +2,7 @@
 # Curso de Python 3: Desde Cero para Principiantes (Udemy)
 
 Este repositorio contiene los códigos y recursos asociados al curso "Python 3: Desde Cero para Principiantes" de Udemy, que consta de 20 secciones con 90 clases y una duración total de 4 horas y 8 minutos.
-
+El curso se desarrolla en Jupyter Notebooks
 ## Acerca del Curso
 
 **Título**: [Python 3: Desde Cero para Principiantes](https://www.udemy.com/course/python-3-desde-cero-para-principiantes-y-no-programadores/)

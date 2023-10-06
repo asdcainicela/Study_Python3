@@ -3,6 +3,33 @@
 
 Este repositorio contiene los códigos y recursos asociados al curso "Python 3: Desde Cero para Principiantes" de Udemy, que consta de 20 secciones con 90 clases y una duración total de 4 horas y 8 minutos.
 El curso se desarrolla en Jupyter Notebooks
+
+## Instalación de Jupyter
+
+Para utilizar Jupyter Notebooks en tu máquina local, sigue estos pasos:
+
+### 1. Verifica si tienes Python instalado
+
+Antes de instalar Jupyter, asegúrate de que tienes Python instalado en tu sistema. Puedes verificar si Python está instalado ejecutando el siguiente comando en tu terminal o símbolo del sistema:
+
+```bash
+python --version
+```
+Si Python está instalado, verás la versión de Python en la salida. Si no tienes Python instalado, puedes descargarlo e instalarlo desde el [sitio web oficial de Python](https://www.python.org/downloads/).
+1. Instala Jypiter
+   Una vez que tienes Python instalado, puedes instalar Jupyter Notebook utilizando el administrador de paquetes pip. Abre una terminal o símbolo del sistema y ejecuta el siguiente comando:
+   ```bash
+   pip install notebook
+   ```
+3. Ejecuta Jupyter Notebook
+   Después de la instalación, puedes ejecutar Jupyter Notebook ejecutando el siguiente comando en tu terminal o símbolo del sistema:
+   ```bash
+   jupyter notebook
+   ```
+   Esto abrirá Jupyter Notebook en tu navegador web y podrás comenzar a crear y ejecutar tus propios cuadernos interactivos de Python.
+
+¡Listo! Ahora tienes Jupyter Notebook instalado y funcionando en tu máquina local. Puedes comenzar a utilizarlo para escribir y ejecutar código Python de manera interactiva.
+
 ## Acerca del Curso
 
 **Título**: [Python 3: Desde Cero para Principiantes](https://www.udemy.com/course/python-3-desde-cero-para-principiantes-y-no-programadores/)

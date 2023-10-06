@@ -94,4 +94,4 @@ Si deseas inscribirte en el curso, puedes hacerlo en [Udemy - Python 3: Desde Ce
 1. Clona este repositorio a tu máquina local para acceder a los códigos:
 
    ```bash
-   git clone https://github.com/tu-usuario/Udemy_Python-3.git
+   git clone https://github.com/asdcainicela/Udemy_Python-3_.git

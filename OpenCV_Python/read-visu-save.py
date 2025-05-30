@@ -5,4 +5,3 @@ cv2.imshow("Prueba de imagen ", imagen) # mostrar imagen
 cv2.imwrite('OpenCv_Python/img/copy_img_zero.jpg', imagen) # save imagen
 cv2.waitKey(0)  # tiempo de espera
 cv2.destroyAllWindows() # cerrar window
-# Nota: Asegúrate de que la ruta de la imagen sea correcta y que la imagen exista en esa ubicación.

@@ -46,9 +46,9 @@ def obtener_historial(paciente: Paciente) -> List[str]:
     list_history = []
     for consulta in paciente.consultas:
         if consulta.receta is None:
-            list_history.append(f"{consulta.fecha}: {consulta.motivo} (Sin receta) \n")
+            list_history.append(f"{consulta.fecha}: {consulta.motivo} (Sin receta)")
         else:
-            list_history.append(f"{consulta.fecha}: {consulta.motivo} (Receta: {consulta.receta}) \n")
+            list_history.append(f"{consulta.fecha}: {consulta.motivo} (Receta: {consulta.receta})")
     return list_history 
         
 def pacientes_con_receta(pacientes: List[Paciente]) -> List[str]:
@@ -79,9 +79,9 @@ def main() -> None:
     agregar_consulta(elva, c4)
     agregar_consulta(elva, c5)
 
-    print(obtener_historial(juan)) 
-    print(obtener_historial(carlos)) 
-    print(obtener_historial(elva)) 
+    print("\n".join(obtener_historial(juan)))
+    print("\n".join(obtener_historial(carlos))) 
+    print("\n".join(obtener_historial(elva)))
     pacientes = [juan, carlos, elva]
     print(pacientes_con_receta(pacientes))   
 

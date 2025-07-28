@@ -22,7 +22,7 @@ from typing import Optional
 
 def buscar_usuario(nombre: str) -> Optional[str]:
     
-    match nombre:
+    match nombre.lower():
         case "admin":
             return "Administrador"
         case "user":

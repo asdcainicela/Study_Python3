@@ -45,7 +45,7 @@ Crea una función que reciba un diccionario con nombres y notas de estudiantes,
 from typing import Dict
 
 def filtrar_aprobados(notas: Dict[str, float]) -> Dict[str, float]:
-    return {name: nota for name, nota in notas.items() if nota >13 }
+    return {name: nota for name, nota in notas.items() if nota >=13 }
         
 notas = {"Ana": 14.5, "Luis": 12.0, "Pedro": 16.0}
 print(filtrar_aprobados(notas)) 
@@ -56,6 +56,6 @@ retorne la distancia Euclidiana entre ellas.
 """
 from typing import Tuple
 
-def distancia(p1: Tuple[int, int], p2: Tuple[int, int])-> float:
+def distancia(p1: Tuple[int, int], p2: Tuple[int, int]) -> float:
     return ((p1[0]-p2[0])**2 +(p1[1]-p2[1])**2)**0.5
 print(distancia((0,0), (3,4)))

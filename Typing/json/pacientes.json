@@ -1,0 +1,45 @@
+[
+  {
+    "nombre": "Juan",
+    "edad": 34,
+    "consultas": [
+      {
+        "fecha": "2025-07-28",
+        "motivo": "Dolor de cabeza",
+        "receta": "paracetamol"
+      },
+      {
+        "fecha": "2025-07-29",
+        "motivo": "Dolor muscular",
+        "receta": null
+      }
+    ]
+  },
+  {
+    "nombre": "Carlos",
+    "edad": 18,
+    "consultas": [
+      {
+        "fecha": "2025-07-29",
+        "motivo": "Dolor Estomago",
+        "receta": null
+      }
+    ]
+  },
+  {
+    "nombre": "Elva",
+    "edad": 56,
+    "consultas": [
+      {
+        "fecha": "2025-07-29",
+        "motivo": "Gripe",
+        "receta": "dormir"
+      },
+      {
+        "fecha": "2025-07-29",
+        "motivo": "Migrana",
+        "receta": "forte"
+      }
+    ]
+  }
+]

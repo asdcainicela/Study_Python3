@@ -1,0 +1,3394 @@
+[
+  {
+    "nombre": "Juan Pérez",
+    "edad": 19,
+    "cursos": {
+      "Literatura": {
+        "nombre": "Literatura",
+        "creditos": 3,
+        "evaluaciones": [
+          {
+            "fecha": "2025-06-01",
+            "tipo": "Quiz",
+            "nota": 19.9,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-02-18",
+            "tipo": "Examen",
+            "nota": 10.7,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-08-07",
+            "tipo": "Proyecto",
+            "nota": 12.8,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-12-21",
+            "tipo": "Proyecto",
+            "nota": 17.7,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-08-16",
+            "tipo": "Tarea",
+            "nota": 12.0,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-06-01",
+            "tipo": "Quiz",
+            "nota": 14.4,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-12-11",
+            "tipo": "Quiz",
+            "nota": 11.8,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-08-26",
+            "tipo": "Tarea",
+            "nota": 16.5,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-04-20",
+            "tipo": "Tarea",
+            "nota": 10.4,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-12-24",
+            "tipo": "Proyecto",
+            "nota": 19.6,
+            "observaciones": "Excelente"
+          }
+        ],
+        "promedio": 14.58
+      },
+      "Física": {
+        "nombre": "Física",
+        "creditos": 4,
+        "evaluaciones": [
+          {
+            "fecha": "2025-10-15",
+            "tipo": "Examen",
+            "nota": 10.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-17",
+            "tipo": "Proyecto",
+            "nota": 11.6,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-04-11",
+            "tipo": "Quiz",
+            "nota": 10.2,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-10-09",
+            "tipo": "Proyecto",
+            "nota": 15.1,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-11-06",
+            "tipo": "Examen",
+            "nota": 13.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-02-06",
+            "tipo": "Proyecto",
+            "nota": 19.2,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-02",
+            "tipo": "Tarea",
+            "nota": 14.7,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-01-07",
+            "tipo": "Examen",
+            "nota": 18.7,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-06-05",
+            "tipo": "Quiz",
+            "nota": 12.6,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-03-12",
+            "tipo": "Proyecto",
+            "nota": 11.1,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-01-15",
+            "tipo": "Tarea",
+            "nota": 13.2,
+            "observaciones": "Excelente"
+          }
+        ],
+        "promedio": 13.6
+      },
+      "Economía": {
+        "nombre": "Economía",
+        "creditos": 4,
+        "evaluaciones": [
+          {
+            "fecha": "2025-09-15",
+            "tipo": "Quiz",
+            "nota": 18.7,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-05-23",
+            "tipo": "Tarea",
+            "nota": 14.3,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-07-26",
+            "tipo": "Proyecto",
+            "nota": 16.8,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-07-17",
+            "tipo": "Proyecto",
+            "nota": 10.5,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-11-10",
+            "tipo": "Examen",
+            "nota": 17.3,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-08-02",
+            "tipo": "Tarea",
+            "nota": 10.5,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-11-08",
+            "tipo": "Tarea",
+            "nota": 15.5,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-05-03",
+            "tipo": "Quiz",
+            "nota": 15.8,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-08-15",
+            "tipo": "Proyecto",
+            "nota": 17.0,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-04-24",
+            "tipo": "Tarea",
+            "nota": 10.2,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-06-02",
+            "tipo": "Proyecto",
+            "nota": 17.8,
+            "observaciones": null
+          }
+        ],
+        "promedio": 14.95
+      },
+      "Matemáticas": {
+        "nombre": "Matemáticas",
+        "creditos": 5,
+        "evaluaciones": [
+          {
+            "fecha": "2025-08-16",
+            "tipo": "Proyecto",
+            "nota": 13.9,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-09-17",
+            "tipo": "Tarea",
+            "nota": 16.9,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-09-08",
+            "tipo": "Tarea",
+            "nota": 17.0,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-07-25",
+            "tipo": "Examen",
+            "nota": 17.7,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-27",
+            "tipo": "Quiz",
+            "nota": 10.9,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-02-03",
+            "tipo": "Examen",
+            "nota": 12.3,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-09-14",
+            "tipo": "Tarea",
+            "nota": 16.6,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-01-09",
+            "tipo": "Proyecto",
+            "nota": 16.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-10-19",
+            "tipo": "Tarea",
+            "nota": 13.1,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-04-22",
+            "tipo": "Quiz",
+            "nota": 18.8,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-20",
+            "tipo": "Proyecto",
+            "nota": 13.4,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-09-04",
+            "tipo": "Examen",
+            "nota": 13.3,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-01-03",
+            "tipo": "Examen",
+            "nota": 14.8,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-06-26",
+            "tipo": "Tarea",
+            "nota": 19.1,
+            "observaciones": null
+          }
+        ],
+        "promedio": 15.28
+      }
+    },
+    "ponderado": 14.65
+  },
+  {
+    "nombre": "María García",
+    "edad": 20,
+    "cursos": {
+      "Historia": {
+        "nombre": "Historia",
+        "creditos": 2,
+        "evaluaciones": [
+          {
+            "fecha": "2025-11-12",
+            "tipo": "Quiz",
+            "nota": 16.9,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-05-01",
+            "tipo": "Examen",
+            "nota": 18.5,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-07-04",
+            "tipo": "Examen",
+            "nota": 10.2,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-03-19",
+            "tipo": "Proyecto",
+            "nota": 10.4,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-06-04",
+            "tipo": "Proyecto",
+            "nota": 15.8,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-07-21",
+            "tipo": "Quiz",
+            "nota": 12.2,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-11-23",
+            "tipo": "Quiz",
+            "nota": 19.6,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-10-12",
+            "tipo": "Quiz",
+            "nota": 11.7,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-05-18",
+            "tipo": "Quiz",
+            "nota": 19.0,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-07-22",
+            "tipo": "Examen",
+            "nota": 14.0,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-07-01",
+            "tipo": "Quiz",
+            "nota": 11.4,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-06-15",
+            "tipo": "Proyecto",
+            "nota": 17.8,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-12-11",
+            "tipo": "Proyecto",
+            "nota": 14.9,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-12-07",
+            "tipo": "Proyecto",
+            "nota": 19.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-16",
+            "tipo": "Proyecto",
+            "nota": 13.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-10-18",
+            "tipo": "Tarea",
+            "nota": 12.4,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-10-15",
+            "tipo": "Tarea",
+            "nota": 17.1,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-09-15",
+            "tipo": "Proyecto",
+            "nota": 12.6,
+            "observaciones": "Excelente"
+          }
+        ],
+        "promedio": 14.82
+      },
+      "Matemáticas": {
+        "nombre": "Matemáticas",
+        "creditos": 5,
+        "evaluaciones": [
+          {
+            "fecha": "2025-08-16",
+            "tipo": "Proyecto",
+            "nota": 13.9,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-09-17",
+            "tipo": "Tarea",
+            "nota": 16.9,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-09-08",
+            "tipo": "Tarea",
+            "nota": 17.0,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-07-25",
+            "tipo": "Examen",
+            "nota": 17.7,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-27",
+            "tipo": "Quiz",
+            "nota": 10.9,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-02-03",
+            "tipo": "Examen",
+            "nota": 12.3,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-09-14",
+            "tipo": "Tarea",
+            "nota": 16.6,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-01-09",
+            "tipo": "Proyecto",
+            "nota": 16.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-10-19",
+            "tipo": "Tarea",
+            "nota": 13.1,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-04-22",
+            "tipo": "Quiz",
+            "nota": 18.8,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-20",
+            "tipo": "Proyecto",
+            "nota": 13.4,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-09-04",
+            "tipo": "Examen",
+            "nota": 13.3,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-01-03",
+            "tipo": "Examen",
+            "nota": 14.8,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-06-26",
+            "tipo": "Tarea",
+            "nota": 19.1,
+            "observaciones": null
+          }
+        ],
+        "promedio": 15.28
+      },
+      "Biología": {
+        "nombre": "Biología",
+        "creditos": 4,
+        "evaluaciones": [
+          {
+            "fecha": "2025-08-05",
+            "tipo": "Tarea",
+            "nota": 10.2,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-07-04",
+            "tipo": "Proyecto",
+            "nota": 17.1,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-06-16",
+            "tipo": "Proyecto",
+            "nota": 17.0,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-06-25",
+            "tipo": "Examen",
+            "nota": 19.2,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-04-13",
+            "tipo": "Proyecto",
+            "nota": 10.6,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-11-18",
+            "tipo": "Tarea",
+            "nota": 13.3,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-02-18",
+            "tipo": "Examen",
+            "nota": 11.7,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-11-20",
+            "tipo": "Quiz",
+            "nota": 12.4,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-03-04",
+            "tipo": "Tarea",
+            "nota": 12.4,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-04-18",
+            "tipo": "Tarea",
+            "nota": 15.7,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-06-10",
+            "tipo": "Quiz",
+            "nota": 12.7,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-02-20",
+            "tipo": "Quiz",
+            "nota": 11.9,
+            "observaciones": "Puede mejorar"
+          }
+        ],
+        "promedio": 13.68
+      }
+    },
+    "ponderado": 14.61
+  },
+  {
+    "nombre": "Carlos López",
+    "edad": 18,
+    "cursos": {
+      "Historia": {
+        "nombre": "Historia",
+        "creditos": 2,
+        "evaluaciones": [
+          {
+            "fecha": "2025-11-12",
+            "tipo": "Quiz",
+            "nota": 16.9,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-05-01",
+            "tipo": "Examen",
+            "nota": 18.5,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-07-04",
+            "tipo": "Examen",
+            "nota": 10.2,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-03-19",
+            "tipo": "Proyecto",
+            "nota": 10.4,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-06-04",
+            "tipo": "Proyecto",
+            "nota": 15.8,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-07-21",
+            "tipo": "Quiz",
+            "nota": 12.2,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-11-23",
+            "tipo": "Quiz",
+            "nota": 19.6,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-10-12",
+            "tipo": "Quiz",
+            "nota": 11.7,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-05-18",
+            "tipo": "Quiz",
+            "nota": 19.0,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-07-22",
+            "tipo": "Examen",
+            "nota": 14.0,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-07-01",
+            "tipo": "Quiz",
+            "nota": 11.4,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-06-15",
+            "tipo": "Proyecto",
+            "nota": 17.8,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-12-11",
+            "tipo": "Proyecto",
+            "nota": 14.9,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-12-07",
+            "tipo": "Proyecto",
+            "nota": 19.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-16",
+            "tipo": "Proyecto",
+            "nota": 13.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-10-18",
+            "tipo": "Tarea",
+            "nota": 12.4,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-10-15",
+            "tipo": "Tarea",
+            "nota": 17.1,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-09-15",
+            "tipo": "Proyecto",
+            "nota": 12.6,
+            "observaciones": "Excelente"
+          }
+        ],
+        "promedio": 14.82
+      },
+      "Programación": {
+        "nombre": "Programación",
+        "creditos": 6,
+        "evaluaciones": [
+          {
+            "fecha": "2025-04-18",
+            "tipo": "Tarea",
+            "nota": 11.0,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-05-15",
+            "tipo": "Proyecto",
+            "nota": 14.6,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-05-22",
+            "tipo": "Examen",
+            "nota": 19.0,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-10-19",
+            "tipo": "Quiz",
+            "nota": 11.7,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-01-20",
+            "tipo": "Proyecto",
+            "nota": 17.1,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-02-15",
+            "tipo": "Tarea",
+            "nota": 15.0,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-09-07",
+            "tipo": "Tarea",
+            "nota": 11.3,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-04-27",
+            "tipo": "Examen",
+            "nota": 14.7,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-18",
+            "tipo": "Examen",
+            "nota": 13.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-09-20",
+            "tipo": "Examen",
+            "nota": 15.1,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-07-22",
+            "tipo": "Proyecto",
+            "nota": 13.6,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-11-15",
+            "tipo": "Examen",
+            "nota": 17.0,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-12-23",
+            "tipo": "Examen",
+            "nota": 12.8,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-10-01",
+            "tipo": "Proyecto",
+            "nota": 18.3,
+            "observaciones": "Puede mejorar"
+          }
+        ],
+        "promedio": 14.59
+      },
+      "Matemáticas": {
+        "nombre": "Matemáticas",
+        "creditos": 5,
+        "evaluaciones": [
+          {
+            "fecha": "2025-08-16",
+            "tipo": "Proyecto",
+            "nota": 13.9,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-09-17",
+            "tipo": "Tarea",
+            "nota": 16.9,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-09-08",
+            "tipo": "Tarea",
+            "nota": 17.0,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-07-25",
+            "tipo": "Examen",
+            "nota": 17.7,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-27",
+            "tipo": "Quiz",
+            "nota": 10.9,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-02-03",
+            "tipo": "Examen",
+            "nota": 12.3,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-09-14",
+            "tipo": "Tarea",
+            "nota": 16.6,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-01-09",
+            "tipo": "Proyecto",
+            "nota": 16.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-10-19",
+            "tipo": "Tarea",
+            "nota": 13.1,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-04-22",
+            "tipo": "Quiz",
+            "nota": 18.8,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-20",
+            "tipo": "Proyecto",
+            "nota": 13.4,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-09-04",
+            "tipo": "Examen",
+            "nota": 13.3,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-01-03",
+            "tipo": "Examen",
+            "nota": 14.8,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-06-26",
+            "tipo": "Tarea",
+            "nota": 19.1,
+            "observaciones": null
+          }
+        ],
+        "promedio": 15.28
+      }
+    },
+    "ponderado": 14.89
+  },
+  {
+    "nombre": "Ana Martínez",
+    "edad": 21,
+    "cursos": {
+      "Programación": {
+        "nombre": "Programación",
+        "creditos": 6,
+        "evaluaciones": [
+          {
+            "fecha": "2025-04-18",
+            "tipo": "Tarea",
+            "nota": 11.0,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-05-15",
+            "tipo": "Proyecto",
+            "nota": 14.6,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-05-22",
+            "tipo": "Examen",
+            "nota": 19.0,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-10-19",
+            "tipo": "Quiz",
+            "nota": 11.7,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-01-20",
+            "tipo": "Proyecto",
+            "nota": 17.1,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-02-15",
+            "tipo": "Tarea",
+            "nota": 15.0,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-09-07",
+            "tipo": "Tarea",
+            "nota": 11.3,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-04-27",
+            "tipo": "Examen",
+            "nota": 14.7,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-18",
+            "tipo": "Examen",
+            "nota": 13.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-09-20",
+            "tipo": "Examen",
+            "nota": 15.1,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-07-22",
+            "tipo": "Proyecto",
+            "nota": 13.6,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-11-15",
+            "tipo": "Examen",
+            "nota": 17.0,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-12-23",
+            "tipo": "Examen",
+            "nota": 12.8,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-10-01",
+            "tipo": "Proyecto",
+            "nota": 18.3,
+            "observaciones": "Puede mejorar"
+          }
+        ],
+        "promedio": 14.59
+      },
+      "Arte": {
+        "nombre": "Arte",
+        "creditos": 2,
+        "evaluaciones": [
+          {
+            "fecha": "2025-02-03",
+            "tipo": "Tarea",
+            "nota": 15.6,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-05-12",
+            "tipo": "Examen",
+            "nota": 12.6,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-11-27",
+            "tipo": "Proyecto",
+            "nota": 18.3,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-03-02",
+            "tipo": "Quiz",
+            "nota": 12.3,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-10-11",
+            "tipo": "Quiz",
+            "nota": 14.6,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-12-12",
+            "tipo": "Tarea",
+            "nota": 16.4,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-05-13",
+            "tipo": "Examen",
+            "nota": 17.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-05-07",
+            "tipo": "Tarea",
+            "nota": 19.5,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-08-21",
+            "tipo": "Examen",
+            "nota": 17.1,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-09-28",
+            "tipo": "Proyecto",
+            "nota": 10.2,
+            "observaciones": "Puede mejorar"
+          }
+        ],
+        "promedio": 15.37
+      },
+      "Historia": {
+        "nombre": "Historia",
+        "creditos": 2,
+        "evaluaciones": [
+          {
+            "fecha": "2025-11-12",
+            "tipo": "Quiz",
+            "nota": 16.9,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-05-01",
+            "tipo": "Examen",
+            "nota": 18.5,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-07-04",
+            "tipo": "Examen",
+            "nota": 10.2,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-03-19",
+            "tipo": "Proyecto",
+            "nota": 10.4,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-06-04",
+            "tipo": "Proyecto",
+            "nota": 15.8,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-07-21",
+            "tipo": "Quiz",
+            "nota": 12.2,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-11-23",
+            "tipo": "Quiz",
+            "nota": 19.6,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-10-12",
+            "tipo": "Quiz",
+            "nota": 11.7,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-05-18",
+            "tipo": "Quiz",
+            "nota": 19.0,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-07-22",
+            "tipo": "Examen",
+            "nota": 14.0,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-07-01",
+            "tipo": "Quiz",
+            "nota": 11.4,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-06-15",
+            "tipo": "Proyecto",
+            "nota": 17.8,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-12-11",
+            "tipo": "Proyecto",
+            "nota": 14.9,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-12-07",
+            "tipo": "Proyecto",
+            "nota": 19.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-16",
+            "tipo": "Proyecto",
+            "nota": 13.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-10-18",
+            "tipo": "Tarea",
+            "nota": 12.4,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-10-15",
+            "tipo": "Tarea",
+            "nota": 17.1,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-09-15",
+            "tipo": "Proyecto",
+            "nota": 12.6,
+            "observaciones": "Excelente"
+          }
+        ],
+        "promedio": 14.82
+      }
+    },
+    "ponderado": 14.79
+  },
+  {
+    "nombre": "Luis Rodríguez",
+    "edad": 22,
+    "cursos": {
+      "Biología": {
+        "nombre": "Biología",
+        "creditos": 4,
+        "evaluaciones": [
+          {
+            "fecha": "2025-08-05",
+            "tipo": "Tarea",
+            "nota": 10.2,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-07-04",
+            "tipo": "Proyecto",
+            "nota": 17.1,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-06-16",
+            "tipo": "Proyecto",
+            "nota": 17.0,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-06-25",
+            "tipo": "Examen",
+            "nota": 19.2,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-04-13",
+            "tipo": "Proyecto",
+            "nota": 10.6,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-11-18",
+            "tipo": "Tarea",
+            "nota": 13.3,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-02-18",
+            "tipo": "Examen",
+            "nota": 11.7,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-11-20",
+            "tipo": "Quiz",
+            "nota": 12.4,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-03-04",
+            "tipo": "Tarea",
+            "nota": 12.4,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-04-18",
+            "tipo": "Tarea",
+            "nota": 15.7,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-06-10",
+            "tipo": "Quiz",
+            "nota": 12.7,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-02-20",
+            "tipo": "Quiz",
+            "nota": 11.9,
+            "observaciones": "Puede mejorar"
+          }
+        ],
+        "promedio": 13.68
+      },
+      "Matemáticas": {
+        "nombre": "Matemáticas",
+        "creditos": 5,
+        "evaluaciones": [
+          {
+            "fecha": "2025-08-16",
+            "tipo": "Proyecto",
+            "nota": 13.9,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-09-17",
+            "tipo": "Tarea",
+            "nota": 16.9,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-09-08",
+            "tipo": "Tarea",
+            "nota": 17.0,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-07-25",
+            "tipo": "Examen",
+            "nota": 17.7,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-27",
+            "tipo": "Quiz",
+            "nota": 10.9,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-02-03",
+            "tipo": "Examen",
+            "nota": 12.3,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-09-14",
+            "tipo": "Tarea",
+            "nota": 16.6,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-01-09",
+            "tipo": "Proyecto",
+            "nota": 16.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-10-19",
+            "tipo": "Tarea",
+            "nota": 13.1,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-04-22",
+            "tipo": "Quiz",
+            "nota": 18.8,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-20",
+            "tipo": "Proyecto",
+            "nota": 13.4,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-09-04",
+            "tipo": "Examen",
+            "nota": 13.3,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-01-03",
+            "tipo": "Examen",
+            "nota": 14.8,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-06-26",
+            "tipo": "Tarea",
+            "nota": 19.1,
+            "observaciones": null
+          }
+        ],
+        "promedio": 15.28
+      },
+      "Programación": {
+        "nombre": "Programación",
+        "creditos": 6,
+        "evaluaciones": [
+          {
+            "fecha": "2025-04-18",
+            "tipo": "Tarea",
+            "nota": 11.0,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-05-15",
+            "tipo": "Proyecto",
+            "nota": 14.6,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-05-22",
+            "tipo": "Examen",
+            "nota": 19.0,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-10-19",
+            "tipo": "Quiz",
+            "nota": 11.7,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-01-20",
+            "tipo": "Proyecto",
+            "nota": 17.1,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-02-15",
+            "tipo": "Tarea",
+            "nota": 15.0,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-09-07",
+            "tipo": "Tarea",
+            "nota": 11.3,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-04-27",
+            "tipo": "Examen",
+            "nota": 14.7,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-18",
+            "tipo": "Examen",
+            "nota": 13.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-09-20",
+            "tipo": "Examen",
+            "nota": 15.1,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-07-22",
+            "tipo": "Proyecto",
+            "nota": 13.6,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-11-15",
+            "tipo": "Examen",
+            "nota": 17.0,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-12-23",
+            "tipo": "Examen",
+            "nota": 12.8,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-10-01",
+            "tipo": "Proyecto",
+            "nota": 18.3,
+            "observaciones": "Puede mejorar"
+          }
+        ],
+        "promedio": 14.59
+      },
+      "Física": {
+        "nombre": "Física",
+        "creditos": 4,
+        "evaluaciones": [
+          {
+            "fecha": "2025-10-15",
+            "tipo": "Examen",
+            "nota": 10.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-17",
+            "tipo": "Proyecto",
+            "nota": 11.6,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-04-11",
+            "tipo": "Quiz",
+            "nota": 10.2,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-10-09",
+            "tipo": "Proyecto",
+            "nota": 15.1,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-11-06",
+            "tipo": "Examen",
+            "nota": 13.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-02-06",
+            "tipo": "Proyecto",
+            "nota": 19.2,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-02",
+            "tipo": "Tarea",
+            "nota": 14.7,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-01-07",
+            "tipo": "Examen",
+            "nota": 18.7,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-06-05",
+            "tipo": "Quiz",
+            "nota": 12.6,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-03-12",
+            "tipo": "Proyecto",
+            "nota": 11.1,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-01-15",
+            "tipo": "Tarea",
+            "nota": 13.2,
+            "observaciones": "Excelente"
+          }
+        ],
+        "promedio": 13.6
+      },
+      "Arte": {
+        "nombre": "Arte",
+        "creditos": 2,
+        "evaluaciones": [
+          {
+            "fecha": "2025-02-03",
+            "tipo": "Tarea",
+            "nota": 15.6,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-05-12",
+            "tipo": "Examen",
+            "nota": 12.6,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-11-27",
+            "tipo": "Proyecto",
+            "nota": 18.3,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-03-02",
+            "tipo": "Quiz",
+            "nota": 12.3,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-10-11",
+            "tipo": "Quiz",
+            "nota": 14.6,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-12-12",
+            "tipo": "Tarea",
+            "nota": 16.4,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-05-13",
+            "tipo": "Examen",
+            "nota": 17.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-05-07",
+            "tipo": "Tarea",
+            "nota": 19.5,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-08-21",
+            "tipo": "Examen",
+            "nota": 17.1,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-09-28",
+            "tipo": "Proyecto",
+            "nota": 10.2,
+            "observaciones": "Puede mejorar"
+          }
+        ],
+        "promedio": 15.37
+      }
+    },
+    "ponderado": 14.47
+  },
+  {
+    "nombre": "Patas González",
+    "edad": 16,
+    "cursos": {
+      "Historia": {
+        "nombre": "Historia",
+        "creditos": 2,
+        "evaluaciones": [
+          {
+            "fecha": "2025-11-12",
+            "tipo": "Quiz",
+            "nota": 16.9,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-05-01",
+            "tipo": "Examen",
+            "nota": 18.5,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-07-04",
+            "tipo": "Examen",
+            "nota": 10.2,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-03-19",
+            "tipo": "Proyecto",
+            "nota": 10.4,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-06-04",
+            "tipo": "Proyecto",
+            "nota": 15.8,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-07-21",
+            "tipo": "Quiz",
+            "nota": 12.2,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-11-23",
+            "tipo": "Quiz",
+            "nota": 19.6,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-10-12",
+            "tipo": "Quiz",
+            "nota": 11.7,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-05-18",
+            "tipo": "Quiz",
+            "nota": 19.0,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-07-22",
+            "tipo": "Examen",
+            "nota": 14.0,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-07-01",
+            "tipo": "Quiz",
+            "nota": 11.4,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-06-15",
+            "tipo": "Proyecto",
+            "nota": 17.8,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-12-11",
+            "tipo": "Proyecto",
+            "nota": 14.9,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-12-07",
+            "tipo": "Proyecto",
+            "nota": 19.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-16",
+            "tipo": "Proyecto",
+            "nota": 13.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-10-18",
+            "tipo": "Tarea",
+            "nota": 12.4,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-10-15",
+            "tipo": "Tarea",
+            "nota": 17.1,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-09-15",
+            "tipo": "Proyecto",
+            "nota": 12.6,
+            "observaciones": "Excelente"
+          }
+        ],
+        "promedio": 14.82
+      },
+      "Física": {
+        "nombre": "Física",
+        "creditos": 4,
+        "evaluaciones": [
+          {
+            "fecha": "2025-10-15",
+            "tipo": "Examen",
+            "nota": 10.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-17",
+            "tipo": "Proyecto",
+            "nota": 11.6,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-04-11",
+            "tipo": "Quiz",
+            "nota": 10.2,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-10-09",
+            "tipo": "Proyecto",
+            "nota": 15.1,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-11-06",
+            "tipo": "Examen",
+            "nota": 13.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-02-06",
+            "tipo": "Proyecto",
+            "nota": 19.2,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-02",
+            "tipo": "Tarea",
+            "nota": 14.7,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-01-07",
+            "tipo": "Examen",
+            "nota": 18.7,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-06-05",
+            "tipo": "Quiz",
+            "nota": 12.6,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-03-12",
+            "tipo": "Proyecto",
+            "nota": 11.1,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-01-15",
+            "tipo": "Tarea",
+            "nota": 13.2,
+            "observaciones": "Excelente"
+          }
+        ],
+        "promedio": 13.6
+      },
+      "Economía": {
+        "nombre": "Economía",
+        "creditos": 4,
+        "evaluaciones": [
+          {
+            "fecha": "2025-09-15",
+            "tipo": "Quiz",
+            "nota": 18.7,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-05-23",
+            "tipo": "Tarea",
+            "nota": 14.3,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-07-26",
+            "tipo": "Proyecto",
+            "nota": 16.8,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-07-17",
+            "tipo": "Proyecto",
+            "nota": 10.5,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-11-10",
+            "tipo": "Examen",
+            "nota": 17.3,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-08-02",
+            "tipo": "Tarea",
+            "nota": 10.5,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-11-08",
+            "tipo": "Tarea",
+            "nota": 15.5,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-05-03",
+            "tipo": "Quiz",
+            "nota": 15.8,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-08-15",
+            "tipo": "Proyecto",
+            "nota": 17.0,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-04-24",
+            "tipo": "Tarea",
+            "nota": 10.2,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-06-02",
+            "tipo": "Proyecto",
+            "nota": 17.8,
+            "observaciones": null
+          }
+        ],
+        "promedio": 14.95
+      },
+      "Biología": {
+        "nombre": "Biología",
+        "creditos": 4,
+        "evaluaciones": [
+          {
+            "fecha": "2025-08-05",
+            "tipo": "Tarea",
+            "nota": 10.2,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-07-04",
+            "tipo": "Proyecto",
+            "nota": 17.1,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-06-16",
+            "tipo": "Proyecto",
+            "nota": 17.0,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-06-25",
+            "tipo": "Examen",
+            "nota": 19.2,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-04-13",
+            "tipo": "Proyecto",
+            "nota": 10.6,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-11-18",
+            "tipo": "Tarea",
+            "nota": 13.3,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-02-18",
+            "tipo": "Examen",
+            "nota": 11.7,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-11-20",
+            "tipo": "Quiz",
+            "nota": 12.4,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-03-04",
+            "tipo": "Tarea",
+            "nota": 12.4,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-04-18",
+            "tipo": "Tarea",
+            "nota": 15.7,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-06-10",
+            "tipo": "Quiz",
+            "nota": 12.7,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-02-20",
+            "tipo": "Quiz",
+            "nota": 11.9,
+            "observaciones": "Puede mejorar"
+          }
+        ],
+        "promedio": 13.68
+      },
+      "Inglés": {
+        "nombre": "Inglés",
+        "creditos": 3,
+        "evaluaciones": [
+          {
+            "fecha": "2025-05-07",
+            "tipo": "Quiz",
+            "nota": 13.7,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-02-11",
+            "tipo": "Proyecto",
+            "nota": 13.2,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-11-04",
+            "tipo": "Quiz",
+            "nota": 16.8,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-11-08",
+            "tipo": "Quiz",
+            "nota": 12.7,
+            "observaciones": "Puede mejorar"
+          }
+        ],
+        "promedio": 14.1
+      }
+    },
+    "ponderado": 14.17
+  },
+  {
+    "nombre": "José Fernández",
+    "edad": 17,
+    "cursos": {
+      "Química": {
+        "nombre": "Química",
+        "creditos": 3,
+        "evaluaciones": [
+          {
+            "fecha": "2025-04-01",
+            "tipo": "Proyecto",
+            "nota": 18.6,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-02-26",
+            "tipo": "Examen",
+            "nota": 15.5,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-06-22",
+            "tipo": "Tarea",
+            "nota": 14.3,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-08-21",
+            "tipo": "Examen",
+            "nota": 18.9,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-05-01",
+            "tipo": "Proyecto",
+            "nota": 16.5,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-02-06",
+            "tipo": "Quiz",
+            "nota": 17.2,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-01-22",
+            "tipo": "Quiz",
+            "nota": 11.6,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-08-07",
+            "tipo": "Examen",
+            "nota": 14.0,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-05-13",
+            "tipo": "Proyecto",
+            "nota": 10.8,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-12-09",
+            "tipo": "Examen",
+            "nota": 18.8,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-01-06",
+            "tipo": "Examen",
+            "nota": 13.5,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-12-09",
+            "tipo": "Proyecto",
+            "nota": 12.7,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-08-12",
+            "tipo": "Proyecto",
+            "nota": 11.8,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-02-25",
+            "tipo": "Examen",
+            "nota": 10.1,
+            "observaciones": "Buen trabajo"
+          }
+        ],
+        "promedio": 14.59
+      },
+      "Biología": {
+        "nombre": "Biología",
+        "creditos": 4,
+        "evaluaciones": [
+          {
+            "fecha": "2025-08-05",
+            "tipo": "Tarea",
+            "nota": 10.2,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-07-04",
+            "tipo": "Proyecto",
+            "nota": 17.1,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-06-16",
+            "tipo": "Proyecto",
+            "nota": 17.0,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-06-25",
+            "tipo": "Examen",
+            "nota": 19.2,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-04-13",
+            "tipo": "Proyecto",
+            "nota": 10.6,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-11-18",
+            "tipo": "Tarea",
+            "nota": 13.3,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-02-18",
+            "tipo": "Examen",
+            "nota": 11.7,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-11-20",
+            "tipo": "Quiz",
+            "nota": 12.4,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-03-04",
+            "tipo": "Tarea",
+            "nota": 12.4,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-04-18",
+            "tipo": "Tarea",
+            "nota": 15.7,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-06-10",
+            "tipo": "Quiz",
+            "nota": 12.7,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-02-20",
+            "tipo": "Quiz",
+            "nota": 11.9,
+            "observaciones": "Puede mejorar"
+          }
+        ],
+        "promedio": 13.68
+      },
+      "Matemáticas": {
+        "nombre": "Matemáticas",
+        "creditos": 5,
+        "evaluaciones": [
+          {
+            "fecha": "2025-08-16",
+            "tipo": "Proyecto",
+            "nota": 13.9,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-09-17",
+            "tipo": "Tarea",
+            "nota": 16.9,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-09-08",
+            "tipo": "Tarea",
+            "nota": 17.0,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-07-25",
+            "tipo": "Examen",
+            "nota": 17.7,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-27",
+            "tipo": "Quiz",
+            "nota": 10.9,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-02-03",
+            "tipo": "Examen",
+            "nota": 12.3,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-09-14",
+            "tipo": "Tarea",
+            "nota": 16.6,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-01-09",
+            "tipo": "Proyecto",
+            "nota": 16.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-10-19",
+            "tipo": "Tarea",
+            "nota": 13.1,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-04-22",
+            "tipo": "Quiz",
+            "nota": 18.8,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-20",
+            "tipo": "Proyecto",
+            "nota": 13.4,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-09-04",
+            "tipo": "Examen",
+            "nota": 13.3,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-01-03",
+            "tipo": "Examen",
+            "nota": 14.8,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-06-26",
+            "tipo": "Tarea",
+            "nota": 19.1,
+            "observaciones": null
+          }
+        ],
+        "promedio": 15.28
+      },
+      "Historia": {
+        "nombre": "Historia",
+        "creditos": 2,
+        "evaluaciones": [
+          {
+            "fecha": "2025-11-12",
+            "tipo": "Quiz",
+            "nota": 16.9,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-05-01",
+            "tipo": "Examen",
+            "nota": 18.5,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-07-04",
+            "tipo": "Examen",
+            "nota": 10.2,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-03-19",
+            "tipo": "Proyecto",
+            "nota": 10.4,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-06-04",
+            "tipo": "Proyecto",
+            "nota": 15.8,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-07-21",
+            "tipo": "Quiz",
+            "nota": 12.2,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-11-23",
+            "tipo": "Quiz",
+            "nota": 19.6,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-10-12",
+            "tipo": "Quiz",
+            "nota": 11.7,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-05-18",
+            "tipo": "Quiz",
+            "nota": 19.0,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-07-22",
+            "tipo": "Examen",
+            "nota": 14.0,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-07-01",
+            "tipo": "Quiz",
+            "nota": 11.4,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-06-15",
+            "tipo": "Proyecto",
+            "nota": 17.8,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-12-11",
+            "tipo": "Proyecto",
+            "nota": 14.9,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-12-07",
+            "tipo": "Proyecto",
+            "nota": 19.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-16",
+            "tipo": "Proyecto",
+            "nota": 13.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-10-18",
+            "tipo": "Tarea",
+            "nota": 12.4,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-10-15",
+            "tipo": "Tarea",
+            "nota": 17.1,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-09-15",
+            "tipo": "Proyecto",
+            "nota": 12.6,
+            "observaciones": "Excelente"
+          }
+        ],
+        "promedio": 14.82
+      }
+    },
+    "ponderado": 14.61
+  },
+  {
+    "nombre": "Sofía Díaz",
+    "edad": 19,
+    "cursos": {
+      "Química": {
+        "nombre": "Química",
+        "creditos": 3,
+        "evaluaciones": [
+          {
+            "fecha": "2025-04-01",
+            "tipo": "Proyecto",
+            "nota": 18.6,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-02-26",
+            "tipo": "Examen",
+            "nota": 15.5,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-06-22",
+            "tipo": "Tarea",
+            "nota": 14.3,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-08-21",
+            "tipo": "Examen",
+            "nota": 18.9,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-05-01",
+            "tipo": "Proyecto",
+            "nota": 16.5,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-02-06",
+            "tipo": "Quiz",
+            "nota": 17.2,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-01-22",
+            "tipo": "Quiz",
+            "nota": 11.6,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-08-07",
+            "tipo": "Examen",
+            "nota": 14.0,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-05-13",
+            "tipo": "Proyecto",
+            "nota": 10.8,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-12-09",
+            "tipo": "Examen",
+            "nota": 18.8,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-01-06",
+            "tipo": "Examen",
+            "nota": 13.5,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-12-09",
+            "tipo": "Proyecto",
+            "nota": 12.7,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-08-12",
+            "tipo": "Proyecto",
+            "nota": 11.8,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-02-25",
+            "tipo": "Examen",
+            "nota": 10.1,
+            "observaciones": "Buen trabajo"
+          }
+        ],
+        "promedio": 14.59
+      },
+      "Programación": {
+        "nombre": "Programación",
+        "creditos": 6,
+        "evaluaciones": [
+          {
+            "fecha": "2025-04-18",
+            "tipo": "Tarea",
+            "nota": 11.0,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-05-15",
+            "tipo": "Proyecto",
+            "nota": 14.6,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-05-22",
+            "tipo": "Examen",
+            "nota": 19.0,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-10-19",
+            "tipo": "Quiz",
+            "nota": 11.7,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-01-20",
+            "tipo": "Proyecto",
+            "nota": 17.1,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-02-15",
+            "tipo": "Tarea",
+            "nota": 15.0,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-09-07",
+            "tipo": "Tarea",
+            "nota": 11.3,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-04-27",
+            "tipo": "Examen",
+            "nota": 14.7,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-18",
+            "tipo": "Examen",
+            "nota": 13.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-09-20",
+            "tipo": "Examen",
+            "nota": 15.1,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-07-22",
+            "tipo": "Proyecto",
+            "nota": 13.6,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-11-15",
+            "tipo": "Examen",
+            "nota": 17.0,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-12-23",
+            "tipo": "Examen",
+            "nota": 12.8,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-10-01",
+            "tipo": "Proyecto",
+            "nota": 18.3,
+            "observaciones": "Puede mejorar"
+          }
+        ],
+        "promedio": 14.59
+      },
+      "Literatura": {
+        "nombre": "Literatura",
+        "creditos": 3,
+        "evaluaciones": [
+          {
+            "fecha": "2025-06-01",
+            "tipo": "Quiz",
+            "nota": 19.9,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-02-18",
+            "tipo": "Examen",
+            "nota": 10.7,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-08-07",
+            "tipo": "Proyecto",
+            "nota": 12.8,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-12-21",
+            "tipo": "Proyecto",
+            "nota": 17.7,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-08-16",
+            "tipo": "Tarea",
+            "nota": 12.0,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-06-01",
+            "tipo": "Quiz",
+            "nota": 14.4,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-12-11",
+            "tipo": "Quiz",
+            "nota": 11.8,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-08-26",
+            "tipo": "Tarea",
+            "nota": 16.5,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-04-20",
+            "tipo": "Tarea",
+            "nota": 10.4,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-12-24",
+            "tipo": "Proyecto",
+            "nota": 19.6,
+            "observaciones": "Excelente"
+          }
+        ],
+        "promedio": 14.58
+      }
+    },
+    "ponderado": 14.59
+  },
+  {
+    "nombre": "Miguel Sánchez",
+    "edad": 20,
+    "cursos": {
+      "Literatura": {
+        "nombre": "Literatura",
+        "creditos": 3,
+        "evaluaciones": [
+          {
+            "fecha": "2025-06-01",
+            "tipo": "Quiz",
+            "nota": 19.9,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-02-18",
+            "tipo": "Examen",
+            "nota": 10.7,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-08-07",
+            "tipo": "Proyecto",
+            "nota": 12.8,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-12-21",
+            "tipo": "Proyecto",
+            "nota": 17.7,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-08-16",
+            "tipo": "Tarea",
+            "nota": 12.0,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-06-01",
+            "tipo": "Quiz",
+            "nota": 14.4,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-12-11",
+            "tipo": "Quiz",
+            "nota": 11.8,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-08-26",
+            "tipo": "Tarea",
+            "nota": 16.5,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-04-20",
+            "tipo": "Tarea",
+            "nota": 10.4,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-12-24",
+            "tipo": "Proyecto",
+            "nota": 19.6,
+            "observaciones": "Excelente"
+          }
+        ],
+        "promedio": 14.58
+      },
+      "Química": {
+        "nombre": "Química",
+        "creditos": 3,
+        "evaluaciones": [
+          {
+            "fecha": "2025-04-01",
+            "tipo": "Proyecto",
+            "nota": 18.6,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-02-26",
+            "tipo": "Examen",
+            "nota": 15.5,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-06-22",
+            "tipo": "Tarea",
+            "nota": 14.3,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-08-21",
+            "tipo": "Examen",
+            "nota": 18.9,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-05-01",
+            "tipo": "Proyecto",
+            "nota": 16.5,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-02-06",
+            "tipo": "Quiz",
+            "nota": 17.2,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-01-22",
+            "tipo": "Quiz",
+            "nota": 11.6,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-08-07",
+            "tipo": "Examen",
+            "nota": 14.0,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-05-13",
+            "tipo": "Proyecto",
+            "nota": 10.8,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-12-09",
+            "tipo": "Examen",
+            "nota": 18.8,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-01-06",
+            "tipo": "Examen",
+            "nota": 13.5,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-12-09",
+            "tipo": "Proyecto",
+            "nota": 12.7,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-08-12",
+            "tipo": "Proyecto",
+            "nota": 11.8,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-02-25",
+            "tipo": "Examen",
+            "nota": 10.1,
+            "observaciones": "Buen trabajo"
+          }
+        ],
+        "promedio": 14.59
+      },
+      "Arte": {
+        "nombre": "Arte",
+        "creditos": 2,
+        "evaluaciones": [
+          {
+            "fecha": "2025-02-03",
+            "tipo": "Tarea",
+            "nota": 15.6,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-05-12",
+            "tipo": "Examen",
+            "nota": 12.6,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-11-27",
+            "tipo": "Proyecto",
+            "nota": 18.3,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-03-02",
+            "tipo": "Quiz",
+            "nota": 12.3,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-10-11",
+            "tipo": "Quiz",
+            "nota": 14.6,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-12-12",
+            "tipo": "Tarea",
+            "nota": 16.4,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-05-13",
+            "tipo": "Examen",
+            "nota": 17.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-05-07",
+            "tipo": "Tarea",
+            "nota": 19.5,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-08-21",
+            "tipo": "Examen",
+            "nota": 17.1,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-09-28",
+            "tipo": "Proyecto",
+            "nota": 10.2,
+            "observaciones": "Puede mejorar"
+          }
+        ],
+        "promedio": 15.37
+      },
+      "Economía": {
+        "nombre": "Economía",
+        "creditos": 4,
+        "evaluaciones": [
+          {
+            "fecha": "2025-09-15",
+            "tipo": "Quiz",
+            "nota": 18.7,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-05-23",
+            "tipo": "Tarea",
+            "nota": 14.3,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-07-26",
+            "tipo": "Proyecto",
+            "nota": 16.8,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-07-17",
+            "tipo": "Proyecto",
+            "nota": 10.5,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-11-10",
+            "tipo": "Examen",
+            "nota": 17.3,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-08-02",
+            "tipo": "Tarea",
+            "nota": 10.5,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-11-08",
+            "tipo": "Tarea",
+            "nota": 15.5,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-05-03",
+            "tipo": "Quiz",
+            "nota": 15.8,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-08-15",
+            "tipo": "Proyecto",
+            "nota": 17.0,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-04-24",
+            "tipo": "Tarea",
+            "nota": 10.2,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-06-02",
+            "tipo": "Proyecto",
+            "nota": 17.8,
+            "observaciones": null
+          }
+        ],
+        "promedio": 14.95
+      },
+      "Programación": {
+        "nombre": "Programación",
+        "creditos": 6,
+        "evaluaciones": [
+          {
+            "fecha": "2025-04-18",
+            "tipo": "Tarea",
+            "nota": 11.0,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-05-15",
+            "tipo": "Proyecto",
+            "nota": 14.6,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-05-22",
+            "tipo": "Examen",
+            "nota": 19.0,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-10-19",
+            "tipo": "Quiz",
+            "nota": 11.7,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-01-20",
+            "tipo": "Proyecto",
+            "nota": 17.1,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-02-15",
+            "tipo": "Tarea",
+            "nota": 15.0,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-09-07",
+            "tipo": "Tarea",
+            "nota": 11.3,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-04-27",
+            "tipo": "Examen",
+            "nota": 14.7,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-18",
+            "tipo": "Examen",
+            "nota": 13.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-09-20",
+            "tipo": "Examen",
+            "nota": 15.1,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-07-22",
+            "tipo": "Proyecto",
+            "nota": 13.6,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-11-15",
+            "tipo": "Examen",
+            "nota": 17.0,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-12-23",
+            "tipo": "Examen",
+            "nota": 12.8,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-10-01",
+            "tipo": "Proyecto",
+            "nota": 18.3,
+            "observaciones": "Puede mejorar"
+          }
+        ],
+        "promedio": 14.59
+      }
+    },
+    "ponderado": 14.75
+  },
+  {
+    "nombre": "Elena Ramírez",
+    "edad": 18,
+    "cursos": {
+      "Química": {
+        "nombre": "Química",
+        "creditos": 3,
+        "evaluaciones": [
+          {
+            "fecha": "2025-04-01",
+            "tipo": "Proyecto",
+            "nota": 18.6,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-02-26",
+            "tipo": "Examen",
+            "nota": 15.5,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-06-22",
+            "tipo": "Tarea",
+            "nota": 14.3,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-08-21",
+            "tipo": "Examen",
+            "nota": 18.9,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-05-01",
+            "tipo": "Proyecto",
+            "nota": 16.5,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-02-06",
+            "tipo": "Quiz",
+            "nota": 17.2,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-01-22",
+            "tipo": "Quiz",
+            "nota": 11.6,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-08-07",
+            "tipo": "Examen",
+            "nota": 14.0,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-05-13",
+            "tipo": "Proyecto",
+            "nota": 10.8,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-12-09",
+            "tipo": "Examen",
+            "nota": 18.8,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-01-06",
+            "tipo": "Examen",
+            "nota": 13.5,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-12-09",
+            "tipo": "Proyecto",
+            "nota": 12.7,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-08-12",
+            "tipo": "Proyecto",
+            "nota": 11.8,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-02-25",
+            "tipo": "Examen",
+            "nota": 10.1,
+            "observaciones": "Buen trabajo"
+          }
+        ],
+        "promedio": 14.59
+      },
+      "Literatura": {
+        "nombre": "Literatura",
+        "creditos": 3,
+        "evaluaciones": [
+          {
+            "fecha": "2025-06-01",
+            "tipo": "Quiz",
+            "nota": 19.9,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-02-18",
+            "tipo": "Examen",
+            "nota": 10.7,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-08-07",
+            "tipo": "Proyecto",
+            "nota": 12.8,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-12-21",
+            "tipo": "Proyecto",
+            "nota": 17.7,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-08-16",
+            "tipo": "Tarea",
+            "nota": 12.0,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-06-01",
+            "tipo": "Quiz",
+            "nota": 14.4,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-12-11",
+            "tipo": "Quiz",
+            "nota": 11.8,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-08-26",
+            "tipo": "Tarea",
+            "nota": 16.5,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-04-20",
+            "tipo": "Tarea",
+            "nota": 10.4,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-12-24",
+            "tipo": "Proyecto",
+            "nota": 19.6,
+            "observaciones": "Excelente"
+          }
+        ],
+        "promedio": 14.58
+      },
+      "Inglés": {
+        "nombre": "Inglés",
+        "creditos": 3,
+        "evaluaciones": [
+          {
+            "fecha": "2025-05-07",
+            "tipo": "Quiz",
+            "nota": 13.7,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-02-11",
+            "tipo": "Proyecto",
+            "nota": 13.2,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-11-04",
+            "tipo": "Quiz",
+            "nota": 16.8,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-11-08",
+            "tipo": "Quiz",
+            "nota": 12.7,
+            "observaciones": "Puede mejorar"
+          }
+        ],
+        "promedio": 14.1
+      },
+      "Economía": {
+        "nombre": "Economía",
+        "creditos": 4,
+        "evaluaciones": [
+          {
+            "fecha": "2025-09-15",
+            "tipo": "Quiz",
+            "nota": 18.7,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-05-23",
+            "tipo": "Tarea",
+            "nota": 14.3,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-07-26",
+            "tipo": "Proyecto",
+            "nota": 16.8,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-07-17",
+            "tipo": "Proyecto",
+            "nota": 10.5,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-11-10",
+            "tipo": "Examen",
+            "nota": 17.3,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-08-02",
+            "tipo": "Tarea",
+            "nota": 10.5,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-11-08",
+            "tipo": "Tarea",
+            "nota": 15.5,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-05-03",
+            "tipo": "Quiz",
+            "nota": 15.8,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-08-15",
+            "tipo": "Proyecto",
+            "nota": 17.0,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-04-24",
+            "tipo": "Tarea",
+            "nota": 10.2,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-06-02",
+            "tipo": "Proyecto",
+            "nota": 17.8,
+            "observaciones": null
+          }
+        ],
+        "promedio": 14.95
+      },
+      "Historia": {
+        "nombre": "Historia",
+        "creditos": 2,
+        "evaluaciones": [
+          {
+            "fecha": "2025-11-12",
+            "tipo": "Quiz",
+            "nota": 16.9,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-05-01",
+            "tipo": "Examen",
+            "nota": 18.5,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-07-04",
+            "tipo": "Examen",
+            "nota": 10.2,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-03-19",
+            "tipo": "Proyecto",
+            "nota": 10.4,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-06-04",
+            "tipo": "Proyecto",
+            "nota": 15.8,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-07-21",
+            "tipo": "Quiz",
+            "nota": 12.2,
+            "observaciones": null
+          },
+          {
+            "fecha": "2025-11-23",
+            "tipo": "Quiz",
+            "nota": 19.6,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-10-12",
+            "tipo": "Quiz",
+            "nota": 11.7,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-05-18",
+            "tipo": "Quiz",
+            "nota": 19.0,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-07-22",
+            "tipo": "Examen",
+            "nota": 14.0,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-07-01",
+            "tipo": "Quiz",
+            "nota": 11.4,
+            "observaciones": "Puede mejorar"
+          },
+          {
+            "fecha": "2025-06-15",
+            "tipo": "Proyecto",
+            "nota": 17.8,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-12-11",
+            "tipo": "Proyecto",
+            "nota": 14.9,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-12-07",
+            "tipo": "Proyecto",
+            "nota": 19.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-07-16",
+            "tipo": "Proyecto",
+            "nota": 13.1,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-10-18",
+            "tipo": "Tarea",
+            "nota": 12.4,
+            "observaciones": "Excelente"
+          },
+          {
+            "fecha": "2025-10-15",
+            "tipo": "Tarea",
+            "nota": 17.1,
+            "observaciones": "Buen trabajo"
+          },
+          {
+            "fecha": "2025-09-15",
+            "tipo": "Proyecto",
+            "nota": 12.6,
+            "observaciones": "Excelente"
+          }
+        ],
+        "promedio": 14.82
+      }
+    },
+    "ponderado": 14.62
+  }
+]

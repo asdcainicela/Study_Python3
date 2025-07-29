@@ -1,0 +1,5 @@
+manaza
+fresa
+platano
+naranja
+zandia
